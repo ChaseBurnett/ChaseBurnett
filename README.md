@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChaseBurnett
 - 👀 My interests are Brazilian Jiu Jitsu, Cooking on my Big Green Egg, and Fitness!
-- 🌱 I’m currently learning HTML,CSS, how to be a Father of Twins and JavaScript
-- 💞️ I’m looking to collaborate on anything that helps me learn the above better!
+- 🌱 I’m currently a student at the Nashville Software School (Cohort E20)
 - 📫 Best reached by Bat Signal or email at Chaseburnett@me.com
 
 <!---
